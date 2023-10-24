@@ -10,8 +10,8 @@
 | Wix | Wuilt | [مصدر1](https://en.wikipedia.org/wiki/Wix.com)|
 | Fiverr | khamsat | [مصدر1](https://en.wikipedia.org/wiki/Fiverr)|
 | Appsflyer | adjust | [مصدر1](https://www.secrettelaviv.com/best/tags/cool-israeli-companies/appsflyer)|
-| Monday | | [مصدر1]()|
-| Waze | | [مصدر1]()|
+| Monday | Bitrix24 | [مصدر1](https://en.wikipedia.org/wiki/Monday.com)|
+| Waze | HERE WeGo | [مصدر1](https://en.wikipedia.org/wiki/Waze)|
 | elementor Wordpress Plugin | | [مصدر1]()|
 | Mobileye | | [مصدر1]()|
 | Cybereason | | [مصدر1]()|
