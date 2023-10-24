@@ -5,11 +5,11 @@
 
 | الشركة/المنتج | بدائل مقترحة | مصادر | ملاحظات|
 | -------- | -------- | -------- |-----|
-| Payoneer     | Telda     | [مصدر1](الرابط)  |
-| Taboola | | [مصدر1](https://google.com)|
-| Wix | Wuilt | [مصدر1]()|
-| Fiverr | khamsat | [مصدر1]()|
-| Appsflyer | | [مصدر1]()|
+| Payoneer     | Telda     | [مصدر1](https://en.wikipedia.org/wiki/Payoneer)  |
+| Taboola | | [مصدر1](https://en.wikipedia.org/wiki/Taboola)|
+| Wix | Wuilt | [مصدر1](https://en.wikipedia.org/wiki/Wix.com)|
+| Fiverr | khamsat | [مصدر1](https://en.wikipedia.org/wiki/Fiverr)|
+| Appsflyer | adjust | [مصدر1](https://www.secrettelaviv.com/best/tags/cool-israeli-companies/appsflyer)|
 | Monday | | [مصدر1]()|
 | Waze | | [مصدر1]()|
 | elementor Wordpress Plugin | | [مصدر1]()|
