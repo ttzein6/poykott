@@ -1,0 +1,26 @@
+{
+    "name": "Company name1",
+    "desc": "",
+    "logo": "",
+    "notes":"",
+    "alternatives": [{
+        "name": "",
+        "desc": ""
+    }],
+    "resources": [{
+        "resource1": ""
+    }]
+}, {
+    "name": "Company name2",
+    "desc": "",
+    "logo": "",
+    "notes":"",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+        "logo": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}
