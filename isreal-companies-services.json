@@ -1,0 +1,801 @@
+{
+    "name": "Payoneer",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": ""
+    }],
+    "resources": [{
+        "resource1": "https://en.wikipedia.org/wiki/Payoneer"
+    }]
+}, {
+    "name": "Taboola",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "https://en.wikipedia.org/wiki/Taboola",
+    }]
+}, {
+    "name": "Wix",
+    "desc": "",
+    "alternatives": [{
+        "name": "Wuilt",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "https://en.wikipedia.org/wiki/Wix.com",
+    }]
+}, {
+    "name": "Fiverr",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "https://en.wikipedia.org/wiki/Fiverr",
+    }]
+}, {
+    "name": "Appsflyer",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "https://www.secrettelaviv.com/best/tags/cool-israeli-companies/appsflyer",
+    }]
+}, {
+    "name": "Monday",
+    "desc": "",
+    "alternatives": [{
+        "name": "Bitrix24",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "https://en.wikipedia.org/wiki/Monday.com",
+    }]
+}, {
+    "name": "Waze",
+    "desc": "",
+    "alternatives": [{
+        "name": "HERE WeGo",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "https://en.wikipedia.org/wiki/Waze",
+    }]
+}, {
+    "name": "elementor Wordpress Plugin",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Wix",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Mobileye",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Cybereason",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Sisense",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Check Point Software Technologies",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "IronSource",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "WalkMe",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Taboola",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Outbrain",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Monday.com",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "OrCam Technologies",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Riskified",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Fiverr",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Gett",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Lemonade",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Vayyar Imaging",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Playtika",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Gong.io",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "JFrog",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Payoneer",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Moovit",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "SafeBreach",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Cellebrite",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Bringg",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Zebra Medical Vision",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "SolarEdge",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Amdocs",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Tipalti",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Argus Cyber Security",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Cato Networks",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "StoreDot",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Kaltura",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "SentinelOne",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "SysAid Technologies",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Innoviz Technologies",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "NICE Ltd.",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Via",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Flytrex",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Pecan.ai",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "BioCatch",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Optimal+",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "OurCrowd",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "JoyTunes",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "AnyVision",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Lightico",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "ThetaRay",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Quali",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Redis Labs",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "mPrest",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Logz.io",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Windward",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Vayavision",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "MyHeritage",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Waze",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Yotpo",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "RapidAPI",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Guesty",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Dynamic Yield",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Riskified",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Snyk",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Bizzabo",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Ezbob",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Stellar Cyber",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Kryon Systems",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "StartApp",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Forter",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Lusha",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Spot.IM (now OpenWeb)",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Nanit",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Soluto",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Jolt",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+}, {
+    "name": "Oribi",
+    "desc": "",
+    "alternatives": [{
+        "name": "",
+        "desc": "",
+    }],
+    "resources": [{
+        "resource1": "",
+    }]
+},
