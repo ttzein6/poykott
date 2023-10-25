@@ -1,6 +1,7 @@
 {
     "name": "Payoneer",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": ""
@@ -11,9 +12,11 @@
 }, {
     "name": "Taboola",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "https://en.wikipedia.org/wiki/Taboola",
@@ -21,9 +24,11 @@
 }, {
     "name": "Wix",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "Wuilt",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "https://en.wikipedia.org/wiki/Wix.com",
@@ -31,9 +36,11 @@
 }, {
     "name": "Fiverr",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "https://en.wikipedia.org/wiki/Fiverr",
@@ -41,9 +48,11 @@
 }, {
     "name": "Appsflyer",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "https://www.secrettelaviv.com/best/tags/cool-israeli-companies/appsflyer",
@@ -51,9 +60,11 @@
 }, {
     "name": "Monday",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "Bitrix24",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "https://en.wikipedia.org/wiki/Monday.com",
@@ -61,9 +72,11 @@
 }, {
     "name": "Waze",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "HERE WeGo",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "https://en.wikipedia.org/wiki/Waze",
@@ -71,9 +84,11 @@
 }, {
     "name": "elementor Wordpress Plugin",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -81,9 +96,11 @@
 }, {
     "name": "Wix",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -91,9 +108,11 @@
 }, {
     "name": "Mobileye",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -101,9 +120,11 @@
 }, {
     "name": "Cybereason",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -111,9 +132,11 @@
 }, {
     "name": "Sisense",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -121,9 +144,11 @@
 }, {
     "name": "Check Point Software Technologies",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -131,9 +156,11 @@
 }, {
     "name": "IronSource",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -141,9 +168,11 @@
 }, {
     "name": "WalkMe",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -151,9 +180,11 @@
 }, {
     "name": "Taboola",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -161,9 +192,11 @@
 }, {
     "name": "Outbrain",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -171,9 +204,11 @@
 }, {
     "name": "Monday.com",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -181,9 +216,11 @@
 }, {
     "name": "OrCam Technologies",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -191,9 +228,11 @@
 }, {
     "name": "Riskified",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -201,9 +240,11 @@
 }, {
     "name": "Fiverr",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -211,9 +252,11 @@
 }, {
     "name": "Gett",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -221,9 +264,11 @@
 }, {
     "name": "Lemonade",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -231,9 +276,11 @@
 }, {
     "name": "Vayyar Imaging",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -241,9 +288,11 @@
 }, {
     "name": "Playtika",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -251,9 +300,11 @@
 }, {
     "name": "Gong.io",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -261,9 +312,11 @@
 }, {
     "name": "JFrog",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -271,9 +324,11 @@
 }, {
     "name": "Payoneer",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -281,9 +336,11 @@
 }, {
     "name": "Moovit",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -291,9 +348,11 @@
 }, {
     "name": "SafeBreach",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -301,9 +360,11 @@
 }, {
     "name": "Cellebrite",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -311,9 +372,11 @@
 }, {
     "name": "Bringg",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -321,9 +384,11 @@
 }, {
     "name": "Zebra Medical Vision",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -331,9 +396,11 @@
 }, {
     "name": "SolarEdge",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -341,9 +408,11 @@
 }, {
     "name": "Amdocs",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -351,9 +420,11 @@
 }, {
     "name": "Tipalti",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -361,9 +432,11 @@
 }, {
     "name": "Argus Cyber Security",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -371,9 +444,11 @@
 }, {
     "name": "Cato Networks",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -381,9 +456,11 @@
 }, {
     "name": "StoreDot",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -391,9 +468,11 @@
 }, {
     "name": "Kaltura",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -401,9 +480,11 @@
 }, {
     "name": "SentinelOne",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -411,9 +492,11 @@
 }, {
     "name": "SysAid Technologies",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -421,9 +504,11 @@
 }, {
     "name": "Innoviz Technologies",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -431,9 +516,11 @@
 }, {
     "name": "NICE Ltd.",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -441,9 +528,11 @@
 }, {
     "name": "Via",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -451,9 +540,11 @@
 }, {
     "name": "Flytrex",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -461,9 +552,11 @@
 }, {
     "name": "Pecan.ai",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -471,9 +564,11 @@
 }, {
     "name": "BioCatch",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -481,9 +576,11 @@
 }, {
     "name": "Optimal+",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -491,9 +588,11 @@
 }, {
     "name": "OurCrowd",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -501,9 +600,11 @@
 }, {
     "name": "JoyTunes",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -511,9 +612,11 @@
 }, {
     "name": "AnyVision",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -521,9 +624,11 @@
 }, {
     "name": "Lightico",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -531,9 +636,11 @@
 }, {
     "name": "ThetaRay",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -541,9 +648,11 @@
 }, {
     "name": "Quali",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -551,9 +660,11 @@
 }, {
     "name": "Redis Labs",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -561,9 +672,11 @@
 }, {
     "name": "mPrest",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -571,9 +684,11 @@
 }, {
     "name": "Logz.io",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -581,9 +696,11 @@
 }, {
     "name": "Windward",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -591,9 +708,11 @@
 }, {
     "name": "Vayavision",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -601,9 +720,11 @@
 }, {
     "name": "MyHeritage",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -611,9 +732,11 @@
 }, {
     "name": "Waze",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -621,9 +744,11 @@
 }, {
     "name": "Yotpo",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -631,9 +756,11 @@
 }, {
     "name": "RapidAPI",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -641,9 +768,11 @@
 }, {
     "name": "Guesty",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -651,9 +780,11 @@
 }, {
     "name": "Dynamic Yield",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -661,9 +792,11 @@
 }, {
     "name": "Riskified",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -671,9 +804,11 @@
 }, {
     "name": "Snyk",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -681,9 +816,11 @@
 }, {
     "name": "Bizzabo",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -691,9 +828,11 @@
 }, {
     "name": "Ezbob",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -701,9 +840,11 @@
 }, {
     "name": "Stellar Cyber",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -711,9 +852,11 @@
 }, {
     "name": "Kryon Systems",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -721,9 +864,11 @@
 }, {
     "name": "StartApp",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -731,9 +876,11 @@
 }, {
     "name": "Forter",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -741,9 +888,11 @@
 }, {
     "name": "Lusha",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -751,9 +900,11 @@
 }, {
     "name": "Spot.IM (now OpenWeb)",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -761,9 +912,11 @@
 }, {
     "name": "Nanit",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -771,9 +924,11 @@
 }, {
     "name": "Soluto",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -781,9 +936,11 @@
 }, {
     "name": "Jolt",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
@@ -791,9 +948,11 @@
 }, {
     "name": "Oribi",
     "desc": "",
+    "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
+        "logo": "",
     }],
     "resources": [{
         "resource1": "",
