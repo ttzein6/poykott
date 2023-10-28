@@ -47,10 +47,10 @@
     }]
 }, {
     "name": "Fiverr",
-    "desc": "",
+    "desc": "شركة خدمات مصغرة",
     "logo": "",
     "alternatives": [{
-        "name": "",
+        "name": "khamsat",
         "desc": "",
         "logo": "",
     }],
@@ -59,7 +59,7 @@
     }]
 }, {
     "name": "Appsflyer",
-    "desc": "",
+    "desc": "منصة تحليلات تسويقية",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -70,8 +70,8 @@
         "resource1": "https://www.secrettelaviv.com/best/tags/cool-israeli-companies/appsflyer",
     }]
 }, {
-    "name": "Monday",
-    "desc": "",
+    "name": "Monday.com",
+    "desc": "منصة إدارة التعامل مع العملاء",
     "logo": "",
     "alternatives": [{
         "name": "Bitrix24",
@@ -83,7 +83,7 @@
     }]
 }, {
     "name": "Waze",
-    "desc": "",
+    "desc": "تطبيق جي بي إس تفاعلي",
     "logo": "",
     "alternatives": [{
         "name": "HERE WeGo",
@@ -97,29 +97,41 @@
     "name": "elementor Wordpress Plugin",
     "desc": "",
     "logo": "",
-    "alternatives": [{
-        "name": "",
+    "alternatives": [
+        {
+        "name": "King composer",
         "desc": "",
         "logo": "",
-    }],
-    "resources": [{
-        "resource1": "",
-    }]
-}, {
-    "name": "Wix",
-    "desc": "",
-    "logo": "",
-    "alternatives": [{
-        "name": "",
+    },
+        {
+        "name": "SiteOrigin Page Builder",
         "desc": "",
         "logo": "",
-    }],
-    "resources": [{
-        "resource1": "",
-    }]
+    },
+        
+        {
+        "name": "nicepage",
+        "desc": "",
+        "logo": "",
+    },
+        
+        {
+        "name": "divi",
+        "desc": "",
+        "logo": "",
+    }
+    ],
+    "resources": [
+        {
+        "resource1": "https://twitter.com/elemntor/status/1713586652768084368",
+    }, 
+        {
+        "resource2": "https://en.wikipedia.org/wiki/Elementor",
+    }
+    ]
 }, {
     "name": "Mobileye",
-    "desc": "",
+    "desc": "شركة تطوير مركبات ذاتية القيادة وأنظمة مساعدة السائق المتقدمة",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -127,20 +139,28 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/Mobileye",
     }]
 }, {
     "name": "Cybereason",
-    "desc": "",
+    "desc": "شركة أمن سيبراني",
     "logo": "",
     "alternatives": [{
         "name": "",
         "desc": "",
         "logo": "",
     }],
-    "resources": [{
-        "resource1": "",
-    }]
+    "resources": [
+        {
+        "resource1": "https://www.linkedin.com/in/liordiv",
+    }
+        ,{
+        "resource2": "https://il.linkedin.com/in/yossi-n-35113b1",
+    }
+        ,{
+        "resource3": "https://www.linkedin.com/in/yonatanstriemamit",
+    }
+    ]
 }, {
     "name": "Sisense",
     "desc": "",
