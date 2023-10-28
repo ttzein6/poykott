@@ -163,15 +163,27 @@
     ]
 }, {
     "name": "Sisense",
-    "desc": "",
+    "desc": "برمجية ذكاء أعمال  للمشاريع الصغيرة والمتوسطة",
     "logo": "",
-    "alternatives": [{
-        "name": "",
+    "alternatives": [
+        {
+        "name": "Tableau",
         "desc": "",
         "logo": "",
-    }],
+    },
+        {
+        "name": "RAWGraphs",
+        "desc": "",
+        "logo": "",
+    },
+        {
+        "name": "Microsoft Power BI",
+        "desc": "",
+        "logo": "",
+    }
+    ],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/Sisense",
     }]
 }, {
     "name": "Check Point Software Technologies",
@@ -183,7 +195,7 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/Check_Point",
     }]
 }, {
     "name": "IronSource",
@@ -195,7 +207,7 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/IronSource",
     }]
 }, {
     "name": "WalkMe",
@@ -207,23 +219,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
-    }]
-}, {
-    "name": "Taboola",
-    "desc": "",
-    "logo": "",
-    "alternatives": [{
-        "name": "",
-        "desc": "",
-        "logo": "",
-    }],
-    "resources": [{
-        "resource1": "",
+        "resource1": "https://il.linkedin.com/in/yuvalozanna",
     }]
 }, {
     "name": "Outbrain",
-    "desc": "",
+    "desc": "شركة إعلانات",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -231,11 +231,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/Outbrain",
     }]
 }, {
-    "name": "Monday.com",
-    "desc": "",
+    "name": "OrCam device",
+    "desc": "شركة تنتج أجهزة تتيح للمعاقين بصرياً فهم النصوص الكتابية وتحديد الأشياء",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -243,23 +243,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
-    }]
-}, {
-    "name": "OrCam Technologies",
-    "desc": "",
-    "logo": "",
-    "alternatives": [{
-        "name": "",
-        "desc": "",
-        "logo": "",
-    }],
-    "resources": [{
-        "resource1": "",
+        "resource1": "https://ar.wikipedia.org/wiki/%D8%A3%D9%88%D8%B1%D9%83%D8%A7%D9%85_%D8%AF%D9%8A%D9%81%D8%A7%D9%8A%D8%B3",
     }]
 }, {
     "name": "Riskified",
-    "desc": "",
+    "desc": "شركة مكافحة احتيال",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -267,23 +255,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
-    }]
-}, {
-    "name": "Fiverr",
-    "desc": "",
-    "logo": "",
-    "alternatives": [{
-        "name": "",
-        "desc": "",
-        "logo": "",
-    }],
-    "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/Riskified",
     }]
 }, {
     "name": "Gett",
-    "desc": "",
+    "desc": "B2B Ground Transportation Management",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -291,11 +267,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/Gett",
     }]
 }, {
     "name": "Lemonade",
-    "desc": "",
+    "desc": "شركة تأمين",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -303,11 +279,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://www.linkedin.com/company/lemonade-inc-",
     }]
 }, {
     "name": "Vayyar Imaging",
-    "desc": "",
+    "desc": "شركة لأشباه الموصلات تنتج مستشعرات رادار للتصوير الرباعي الأبعاد",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -315,11 +291,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/Vayyar",
     }]
 }, {
     "name": "Playtika",
-    "desc": "",
+    "desc": "شركة تطوير ألعاب جوال",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -327,7 +303,7 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/Playtika",
     }]
 }, {
     "name": "Gong.io",
@@ -354,20 +330,8 @@
         "resource1": "",
     }]
 }, {
-    "name": "Payoneer",
-    "desc": "",
-    "logo": "",
-    "alternatives": [{
-        "name": "",
-        "desc": "",
-        "logo": "",
-    }],
-    "resources": [{
-        "resource1": "",
-    }]
-}, {
     "name": "Moovit",
-    "desc": "",
+    "desc": "شركة مخطط الرحلات",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -379,7 +343,7 @@
     }]
 }, {
     "name": "SafeBreach",
-    "desc": "",
+    "desc": "شركة للأمن السيبراني لمحاكاة اختراق القراصنة",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -387,11 +351,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/SafeBreach",
     }]
 }, {
     "name": "Cellebrite",
-    "desc": "",
+    "desc": "شركة حلول ذكاء أعمال رقمي",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -399,7 +363,7 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/Cellebrite",
     }]
 }, {
     "name": "Bringg",
