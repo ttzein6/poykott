@@ -4,7 +4,7 @@
 
 <template>
     <footer class="mt-40 relative z-10 text-slate-600 dark:text-[#545D82]">
-        <div
+        <!-- <div
             class="h-[30rem] w-[50rem] rounded-full
             blur-[100px]
             -z-10
@@ -147,6 +147,6 @@
                         >Netlify</a>
                 </div>
             </div>
-        </div>
+        </div> -->
     </footer>
 </template>

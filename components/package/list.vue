@@ -354,24 +354,24 @@ const categoriesForSelectboxWithAll = [
                 "
                 >
                 <!-- Crown/Official package toggle -->
-                <ui-official-package-toggle
+                <!-- <ui-official-package-toggle
                     :is-active="showOfficialPackages"
                     @toggle="showOfficialPackages = showOfficialPackages === '1' ? '0' : '1'"
-                    />
+                    /> -->
                 <!-- Search bar -->
                 <ui-search-input />
                 <!-- Sort -->
-                <ui-selectbox
+                <!-- <ui-selectbox
                     v-model="sortField"
                     class="shrink-0 w-full min-[920px]:w-[12.5rem] relative z-20"
                     :items="orderItems"
-                    />
+                    /> -->
                 <!-- Categories -->
-                <ui-selectbox
+                <!-- <ui-selectbox
                     v-model="selectedCategory"
                     class="shrink-0 w-full sm:hidden"
                     :items="categoriesForSelectboxWithAll"
-                    />
+                    /> -->
             </div>
         </div>
         <div class="relative min-h-[16rem]">

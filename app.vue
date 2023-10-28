@@ -1,10 +1,13 @@
 <script setup>
-const siteName = 'Laravel Package Ocean'
-const siteTitle = 'Laravel Package Ocean - Discover new Laravel packages'
-const siteDescription = 'A place where you can find any Laravel package that you may need for your next project.'
-const ogImageUrl = 'https://laravel-package-ocean.com/laravel-package-ocean-opengraph.webp'
-const twitterHandle = '@HassanZahirnia'
-const siteUrl = 'https://laravel-package-ocean.com'
+const siteName = 'حملة مقاطعة'
+const siteTitle = 'حملة مقاطعة منتجات الاحتلال'
+const siteDescription = 'قائمة ببدائل منتجات الاحتلال لمقاطعتها.'
+// const ogImageUrl = 'https://laravel-package-ocean.com/laravel-package-ocean-opengraph.webp'
+// const twitterHandle = '@HassanZahirnia'
+// const siteUrl = 'https://laravel-package-ocean.com'
+const ogImageUrl = ''
+const twitterHandle = ''
+const siteUrl = ''
 
 useServerSeoMeta({
     title: siteTitle,
@@ -15,7 +18,7 @@ useServerSeoMeta({
     ogTitle: siteTitle,
     ogDescription: siteDescription,
     ogImage: ogImageUrl,
-    ogLocale: 'en',
+    ogLocale: 'ar',
     ogUrl: siteUrl,
     // Twitter
     twitterCard: 'summary_large_image',

@@ -12,7 +12,7 @@
             "
             >
             <!-- Logo and brand name -->
-            <nav-logo />
+            <!-- <nav-logo /> -->
             <!-- Menu -->
             <nav-menu-modal />
 
@@ -47,25 +47,8 @@
                     dark:ring-[#627288]/40
                     "
                     >
-                    Suggest a new package
+                    اقترح مقاطعة جديدة
                 </a>
-                <!-- Github link -->
-                <a
-                    class="select-none
-                    p-2
-                    transition duration-300
-                    hover:text-slate-600
-                    dark:text-[#ABB0DD]
-                    dark:hover:text-[#bcc1ef]
-                    "
-                    href="https://github.com/HassanZahirnia/laravel-package-ocean"
-                    target="_blank"
-                    aria-label="Github"
-                    >
-                    <div class="i-carbon-logo-github text-3xl" />
-                </a>
-                <!-- Theme toggle  -->
-                <ui-theme-toggle />
             </div>
         </header>
     </nav>

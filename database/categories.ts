@@ -21,6 +21,7 @@ export const categories: Category[] = [
     'Notifications',
     'UI & Blade Components',
     'Utilities & Helpers',
+    'Muath'
 ]
 
 // Categories with packages count

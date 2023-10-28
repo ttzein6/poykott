@@ -84,10 +84,10 @@ const authorsCount = new Set(laravelPackages.map(laravelPackage => laravelPackag
                     transition duration-300
                     "
                     >
-                    Discover new Laravel packages.
+                    حملة مقاطعة منتجات الاحتلال
                 </div>
                 <!-- Description -->
-                <div
+                <div dir="rtl"
                     class="mx-auto max-w-sm sm:max-w-md
                     pt-5
                     font-medium
@@ -96,7 +96,7 @@ const authorsCount = new Set(laravelPackages.map(laravelPackage => laravelPackag
                     text-[#6A7789] dark:text-[#96A5BB]
                     "
                     >
-                    Our goal is to help the Laravel community to find new & useful Laravel packages in one place.
+                    الهدف من هذه القائمة هو نشر بدائل منتجات الاحتلال، مما يساهم في مساعدة مقاطعة المنتجات بشكل أسهل.
                 </div>
                 <div
                     class="mt-11 sm:mx-10 md:mx-20
@@ -127,11 +127,11 @@ const authorsCount = new Set(laravelPackages.map(laravelPackage => laravelPackag
                             transition duration-300
                             "
                             >
-                            Packages
+                            منتج بديل
                         </div>
                     </div>
                     <!-- Authors count -->
-                    <div class="space-y-0.5">
+                    <!-- <div class="space-y-0.5">
                         <div
                             class="text-3xl
                             font-bold
@@ -150,7 +150,7 @@ const authorsCount = new Set(laravelPackages.map(laravelPackage => laravelPackag
                             >
                             Authors
                         </div>
-                    </div>
+                    </div> -->
                     <!-- Categories count -->
                     <div class="space-y-0.5">
                         <div
@@ -169,7 +169,7 @@ const authorsCount = new Set(laravelPackages.map(laravelPackage => laravelPackag
                             transition duration-300
                             "
                             >
-                            Categories
+                            منتج
                         </div>
                     </div>
                 </div>
