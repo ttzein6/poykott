@@ -1,9 +1,9 @@
 {
     "name": "Payoneer",
-    "desc": "",
+    "desc": "شركة خدمات مالية أمريكية تقدم خدمات تحويل الأموال عبر الإنترنت، ونظام دفع التجارة الإلكترونية خدمات الدفع الرقمية",
     "logo": "",
     "alternatives": [{
-        "name": "",
+        "name": "nuvei",
         "desc": ""
     }],
     "resources": [{
@@ -11,25 +11,37 @@
     }]
 }, {
     "name": "Taboola",
-    "desc": "",
+    "desc": "شركة إعلانات برمجية تشبه",
     "logo": "",
     "alternatives": [{
-        "name": "",
+        "name": "Google AdWords",
         "desc": "",
         "logo": "",
     }],
     "resources": [{
-        "resource1": "https://en.wikipedia.org/wiki/Taboola",
+        "resource1": "https://ar.wikipedia.org/wiki/%D8%AA%D8%A8%D9%88%D9%84%D8%A9_(%D8%B4%D8%B1%D9%83%D8%A9)",
     }]
 }, {
     "name": "Wix",
-    "desc": "",
+    "desc": "شركة إنشاء مواقع بدون تكويد بالسحب والإدراج",
     "logo": "",
     "alternatives": [{
         "name": "Wuilt",
         "desc": "",
         "logo": "",
-    }],
+    },
+    {
+        "name": "WordPress",
+        "desc": "",
+        "logo": "",
+    },
+    {
+        "name": "Webflow",
+        "desc": "",
+        "logo": "",
+    }
+    
+    ],
     "resources": [{
         "resource1": "https://en.wikipedia.org/wiki/Wix.com",
     }]
