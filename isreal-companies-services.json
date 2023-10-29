@@ -715,7 +715,7 @@
     }]
 }, {
     "name": "MyHeritage",
-    "desc": "",
+    "desc": "منصة على الإنترنت مهتمة بعلم الأنساب",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -723,21 +723,9 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D9%8A_%D9%87%D9%8A%D8%B1%D8%AA%D8%AC",
     }]
-}, {
-    "name": "Waze",
-    "desc": "",
-    "logo": "",
-    "alternatives": [{
-        "name": "",
-        "desc": "",
-        "logo": "",
-    }],
-    "resources": [{
-        "resource1": "",
-    }]
-}, {
+},{
     "name": "Yotpo",
     "desc": "",
     "logo": "",
@@ -747,7 +735,7 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://www.wikidata.org/wiki/Q58207104",
     }]
 }, {
     "name": "RapidAPI",
@@ -763,7 +751,7 @@
     }]
 }, {
     "name": "Guesty",
-    "desc": "",
+    "desc": "برنامج لإدارة الممتلكات. يتم استخدامه من قبل مديري العقارات لإدارة الإيجارات قصيرة الأجل المدرجة على منصات متعددة مثل Airbnb وVrbo وBooking.com",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -771,7 +759,7 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/Guesty",
     }]
 }, {
     "name": "Dynamic Yield",
@@ -783,23 +771,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
-    }]
-}, {
-    "name": "Riskified",
-    "desc": "",
-    "logo": "",
-    "alternatives": [{
-        "name": "",
-        "desc": "",
-        "logo": "",
-    }],
-    "resources": [{
-        "resource1": "",
+        "resource1": "https://golden.com/wiki/Dynamic_Yield-99BMAJ9",
     }]
 }, {
     "name": "Snyk",
-    "desc": "",
+    "desc": "شركة أمن سيبراني",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -807,11 +783,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/Snyk",
     }]
 }, {
     "name": "Bizzabo",
-    "desc": "",
+    "desc": "شركة توفر منصة برمجية لاستضافة وإدارة الأحداث الشخصية والأحداث الافتراضية والأحداث المختلطة",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -819,11 +795,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://golden.com/wiki/Bizzabo-4NNEN98",
     }]
 }, {
     "name": "Ezbob",
-    "desc": "",
+    "desc": "شركة تقنية مالية",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -831,7 +807,7 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://golden.com/wiki/Ezbob-GA6K4D",
     }]
 }, {
     "name": "Stellar Cyber",
@@ -847,7 +823,7 @@
     }]
 }, {
     "name": "Kryon Systems",
-    "desc": "",
+    "desc": "أتمتة العمليات الآلية كخدمة وحلول التحليلات للشركات",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -855,7 +831,7 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://golden.com/wiki/Kryon_(company)-99AZZJK",
     }]
 }, {
     "name": "StartApp",
@@ -867,7 +843,7 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://verify.wiki/wiki/StartApp",
     }]
 }, {
     "name": "Forter",
@@ -891,7 +867,7 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://golden.com/wiki/Assaf_Eisenstein-EAAP6AM",
     }]
 }, {
     "name": "Spot.IM (now OpenWeb)",
@@ -927,7 +903,7 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/Soluto",
     }]
 }, {
     "name": "Jolt",
