@@ -399,11 +399,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/SolarEdge",
     }]
 }, {
     "name": "Amdocs",
-    "desc": "",
+    "desc": "شركة متخصصة في تطوير البرمجيات الخاصة بأنظمة الفوترة ومنظومات إدارة علاقات العملاء",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -411,11 +411,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://ar.wikipedia.org/wiki/%D8%A3%D9%85%D8%AF%D9%88%D9%83%D8%B3",
     }]
 }, {
     "name": "Tipalti",
-    "desc": "",
+    "desc": "شركة متخصصة في التكنولوجيا المالية لبرامج المحاسبة توفر حسابات الدفع والمشتريات وبرامج التشغيل الآلي للمدفوعات العالمية للشركات",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -423,11 +423,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://he.wikipedia.org/wiki/%D7%98%D7%99%D7%A4%D7%9C%D7%AA%D7%99_%D7%A4%D7%AA%D7%A8%D7%95%D7%A0%D7%95%D7%AA",
     }]
 }, {
     "name": "Argus Cyber Security",
-    "desc": "",
+    "desc": "شركة الأمن السيبراني للسيارات الإسرائيلية",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -435,11 +435,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/Argus_Cyber_Security",
     }]
 }, {
     "name": "Cato Networks",
-    "desc": "",
+    "desc": "شركة أمن شبكات",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -447,11 +447,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/Cato_Networks",
     }]
 }, {
     "name": "StoreDot",
-    "desc": "",
+    "desc": "شركة مطورة لبطاريات الليثيوم أيون للسيارات الكهربائية",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -459,11 +459,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/StoreDot",
     }]
 }, {
     "name": "Kaltura",
-    "desc": "",
+    "desc": "شركة برمجيات متخصصة في الوسائط وغيرها",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -471,11 +471,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/Kaltura",
     }]
 }, {
     "name": "SentinelOne",
-    "desc": "",
+    "desc": "شركة أمن سيبراني",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -483,11 +483,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/SentinelOne",
     }]
 }, {
     "name": "SysAid Technologies",
-    "desc": "",
+    "desc": "شركة تطوير وتوفير برامج إدارة خدمات تكنولوجيا المعلومات",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -495,7 +495,7 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/SysAid_Technologies",
     }]
 }, {
     "name": "Innoviz Technologies",
@@ -507,11 +507,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%A0%D7%95%D7%95%D7%99%D7%96_%D7%98%D7%9B%D7%A0%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%95%D7%AA",
     }]
 }, {
     "name": "NICE Ltd.",
-    "desc": "",
+    "desc": "شركة متخصصة في برامج إدارة علاقات العملاء والذكاء الاصطناعي والحلول الرقمية وإدارة مشاركة القوى العاملة",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -519,11 +519,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/NICE_Ltd",
     }]
 }, {
-    "name": "Via",
-    "desc": "",
+    "name": "Via Transportation",
+    "desc": "شركة نقل عام تعمل على إعادة هندسة وتطوير حلول النقل العام وتوفيرها حسب الطلب للركاب",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -531,7 +531,7 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://he.wikipedia.org/wiki/Via_(%D7%AA%D7%97%D7%91%D7%95%D7%A8%D7%94",
     }]
 }, {
     "name": "Flytrex",
@@ -547,7 +547,7 @@
     }]
 }, {
     "name": "Pecan.ai",
-    "desc": "",
+    "desc": "برمجية ذكاء اصطناعي",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -555,11 +555,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/Pecan",
     }]
 }, {
     "name": "BioCatch",
-    "desc": "",
+    "desc": "شركة أمن سيبراني",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -567,7 +567,7 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://wikitia.com/wiki/BioCatch",
     }]
 }, {
     "name": "Optimal+",
@@ -583,7 +583,7 @@
     }]
 }, {
     "name": "OurCrowd",
-    "desc": "",
+    "desc": "منصة عالمية للاستثمار في المشاريع عبر الإنترنت",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -591,11 +591,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/OurCrowd",
     }]
 }, {
     "name": "JoyTunes",
-    "desc": "",
+    "desc": "شركة تعمل على تطوير برامج لتعليم الهوايات الإبداعية",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -603,7 +603,7 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/JoyTunes",
     }]
 }, {
     "name": "AnyVision",
@@ -631,7 +631,7 @@
     }]
 }, {
     "name": "ThetaRay",
-    "desc": "",
+    "desc": "شركة متخصصة في تحليل البرمجيات والبيانات الضخمة",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -639,7 +639,7 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/ThetaRay",
     }]
 }, {
     "name": "Quali",
@@ -651,11 +651,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/QualiSystems",
     }]
 }, {
     "name": "Redis Labs",
-    "desc": "",
+    "desc": "شركة برمجيات ",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -663,11 +663,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/Redis_(company)",
     }]
 }, {
     "name": "mPrest",
-    "desc": "",
+    "desc": "شركة برمجيات",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -675,11 +675,11 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://en.wikipedia.org/wiki/MPrest_Systems",
     }]
 }, {
     "name": "Logz.io",
-    "desc": "",
+    "desc": "شركة إدارة أرشيف البيانات (Log) وتحليل الأرشيف",
     "logo": "",
     "alternatives": [{
         "name": "",
@@ -687,7 +687,7 @@
         "logo": "",
     }],
     "resources": [{
-        "resource1": "",
+        "resource1": "https://he.wikipedia.org/wiki/Logz.io",
     }]
 }, {
     "name": "Windward",
