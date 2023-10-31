@@ -504,7 +504,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/innoviztechnologies.png",
     }],
     "resources": [{
         "resource1": "https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%A0%D7%95%D7%95%D7%99%D7%96_%D7%98%D7%9B%D7%A0%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%95%D7%AA",
@@ -516,7 +516,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/niceltd.png",
     }],
     "resources": [{
         "resource1": "https://en.wikipedia.org/wiki/NICE_Ltd",
@@ -528,7 +528,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/viatransportation.png",
     }],
     "resources": [{
         "resource1": "https://he.wikipedia.org/wiki/Via_(%D7%AA%D7%97%D7%91%D7%95%D7%A8%D7%94",
@@ -540,7 +540,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/flytrex.png",
     }],
     "resources": [{
         "resource1": "",
@@ -552,7 +552,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/pecanai.png",
     }],
     "resources": [{
         "resource1": "https://en.wikipedia.org/wiki/Pecan",
@@ -564,7 +564,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/biocatch.png",
     }],
     "resources": [{
         "resource1": "https://wikitia.com/wiki/BioCatch",
@@ -576,7 +576,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/optimal.png",
     }],
     "resources": [{
         "resource1": "",
@@ -588,7 +588,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/ourcrowd.png",
     }],
     "resources": [{
         "resource1": "https://en.wikipedia.org/wiki/OurCrowd",
@@ -600,7 +600,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/joytunes.png",
     }],
     "resources": [{
         "resource1": "https://en.wikipedia.org/wiki/JoyTunes",
@@ -612,7 +612,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/anyvision.png",
     }],
     "resources": [{
         "resource1": "",
@@ -624,7 +624,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/lightico.png",
     }],
     "resources": [{
         "resource1": "",
@@ -636,7 +636,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/thetaray.png",
     }],
     "resources": [{
         "resource1": "https://en.wikipedia.org/wiki/ThetaRay",
@@ -648,7 +648,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/quali.png",
     }],
     "resources": [{
         "resource1": "https://en.wikipedia.org/wiki/QualiSystems",
@@ -660,7 +660,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/redislabs.png",
     }],
     "resources": [{
         "resource1": "https://en.wikipedia.org/wiki/Redis_(company)",
@@ -672,7 +672,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/mprest.png",
     }],
     "resources": [{
         "resource1": "https://en.wikipedia.org/wiki/MPrest_Systems",
@@ -684,7 +684,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/logzio.png",
     }],
     "resources": [{
         "resource1": "https://he.wikipedia.org/wiki/Logz.io",
@@ -696,7 +696,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/windward.png",
     }],
     "resources": [{
         "resource1": "",
@@ -708,7 +708,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/vayavision.png",
     }],
     "resources": [{
         "resource1": "",
@@ -720,7 +720,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/myheritage.png",
     }],
     "resources": [{
         "resource1": "https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D9%8A_%D9%87%D9%8A%D8%B1%D8%AA%D8%AC",
@@ -732,7 +732,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/yotpo.png",
     }],
     "resources": [{
         "resource1": "https://www.wikidata.org/wiki/Q58207104",
@@ -744,7 +744,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/rapidapi.png",
     }],
     "resources": [{
         "resource1": "",
@@ -756,7 +756,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/guesty.png",
     }],
     "resources": [{
         "resource1": "https://en.wikipedia.org/wiki/Guesty",
@@ -768,7 +768,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/dynamicyield.png",
     }],
     "resources": [{
         "resource1": "https://golden.com/wiki/Dynamic_Yield-99BMAJ9",
@@ -780,7 +780,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/snyk.png",
     }],
     "resources": [{
         "resource1": "https://en.wikipedia.org/wiki/Snyk",
@@ -792,7 +792,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/bizzabo.png",
     }],
     "resources": [{
         "resource1": "https://golden.com/wiki/Bizzabo-4NNEN98",
@@ -804,7 +804,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/ezbob.png",
     }],
     "resources": [{
         "resource1": "https://golden.com/wiki/Ezbob-GA6K4D",
@@ -816,7 +816,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/stellarcyber.png",
     }],
     "resources": [{
         "resource1": "",
@@ -828,7 +828,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/kryonsystems.png",
     }],
     "resources": [{
         "resource1": "https://golden.com/wiki/Kryon_(company)-99AZZJK",
@@ -840,7 +840,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/startapp.png",
     }],
     "resources": [{
         "resource1": "https://verify.wiki/wiki/StartApp",
@@ -852,7 +852,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/forter.png",
     }],
     "resources": [{
         "resource1": "",
@@ -864,7 +864,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/lusha.png",
     }],
     "resources": [{
         "resource1": "https://golden.com/wiki/Assaf_Eisenstein-EAAP6AM",
@@ -876,7 +876,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/openweb.png",
     }],
     "resources": [{
         "resource1": "",
@@ -888,7 +888,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/nanit.png",
     }],
     "resources": [{
         "resource1": "",
@@ -900,7 +900,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/soluto.png",
     }],
     "resources": [{
         "resource1": "https://en.wikipedia.org/wiki/Soluto",
@@ -912,7 +912,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/jolt.png",
     }],
     "resources": [{
         "resource1": "",
@@ -924,7 +924,7 @@
     "alternatives": [{
         "name": "",
         "desc": "",
-        "logo": "",
+        "logo": "logo/oribi.png",
     }],
     "resources": [{
         "resource1": "",
