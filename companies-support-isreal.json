@@ -1,26 +1,25 @@
 {
-    "name": "Company name1",
-    "desc": "",
-    "logo": "",
-    "notes":"",
-    "alternatives": [{
-        "name": "",
-        "desc": ""
-    }],
-    "resources": [{
-        "resource1": ""
-    }]
-}, {
-    "name": "Company name2",
-    "desc": "",
-    "logo": "",
-    "notes":"",
-    "alternatives": [{
-        "name": "",
-        "desc": "",
-        "logo": "",
-    }],
-    "resources": [{
-        "resource1": "",
-    }]
+	"companiesAndServices": [
+		{
+			"id": 1,
+			"name": "Company1",
+			"description": "",
+			"logo": "",
+			"notes": "",
+			"inBSD": true,
+			"alternatives": [
+				{
+					"name": "",
+					"description": "",
+					"link": ""
+				}
+			],
+			"resources": [
+				{
+					"name": "",
+					"link": ""
+				}
+			]
+		}
+	]
 }
