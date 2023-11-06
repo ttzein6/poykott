@@ -6,11 +6,12 @@
 			"description": "شركة خدمات مالية أمريكية تقدم خدمات تحويل الأموال عبر الإنترنت، ونظام دفع التجارة الإلكترونية خدمات الدفع الرقمية",
 			"logo": "",
 			"notes": "",
+			"category": "Security",
 			"alternatives": [
 				{
 					"name": "nuvei",
-					"description": ""
-					"link":"",
+					"description": "",
+					"link": ""
 				}
 			],
 			"resources": [
@@ -26,11 +27,12 @@
 			"description": "شركة إعلانات برمجية",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "Google AdWords",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -48,18 +50,19 @@
 			"description": "شركة إنشاء مواقع بدون تكويد بالسحب والإدراج",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "Wuilt",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				},
 				{
 					"name": "WordPress",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				},
@@ -83,11 +86,12 @@
 			"description": "شركة خدمات مصغرة",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "khamsat",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -105,11 +109,12 @@
 			"description": "منصة تحليلات تسويقية",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -127,11 +132,12 @@
 			"description": "منصة إدارة التعامل مع العملاء",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "Bitrix24",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -149,11 +155,12 @@
 			"description": "تطبيق جي بي إس تفاعلي",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "HERE WeGo",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -171,18 +178,19 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "King composer",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				},
 				{
 					"name": "SiteOrigin Page Builder",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				},
@@ -218,11 +226,12 @@
 			"description": "شركة تطوير مركبات ذاتية القيادة وأنظمة مساعدة السائق المتقدمة",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -240,11 +249,12 @@
 			"description": "شركة أمن سيبراني",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -270,25 +280,26 @@
 			"description": "برمجية ذكاء أعمال  للمشاريع الصغيرة والمتوسطة",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "Tableau",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				},
 				{
 					"name": "RAWGraphs",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				},
 				{
 					"name": "Microsoft Power BI",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -303,14 +314,15 @@
 		{
 			"id": 12,
 			"name": "Check Point Software Technologies",
-			"description": "",
-			"logo": "",
+			"description": "شركة حلول أمن رقمي/سيبراني ويطلق عليها CheckPoint",
+			"logo": "./logo/checkout.avif",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -328,11 +340,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -350,11 +363,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -372,11 +386,12 @@
 			"description": "شركة إعلانات",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -394,11 +409,12 @@
 			"description": "شركة تنتج أجهزة تتيح للمعاقين بصرياً فهم النصوص الكتابية وتحديد الأشياء",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -416,11 +432,12 @@
 			"description": "شركة مكافحة احتيال",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -438,11 +455,12 @@
 			"description": "B2B Ground Transportation Management",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -460,11 +478,12 @@
 			"description": "شركة تأمين",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -482,11 +501,12 @@
 			"description": "شركة لأشباه الموصلات تنتج مستشعرات رادار للتصوير الرباعي الأبعاد",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -504,11 +524,12 @@
 			"description": "شركة تطوير ألعاب جوال",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -526,11 +547,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -548,11 +570,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -570,11 +593,12 @@
 			"description": "شركة مخطط الرحلات",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -592,11 +616,12 @@
 			"description": "شركة للأمن السيبراني لمحاكاة اختراق القراصنة",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -614,11 +639,12 @@
 			"description": "شركة حلول ذكاء أعمال رقمي",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -636,11 +662,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -658,11 +685,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -680,11 +708,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -702,11 +731,12 @@
 			"description": "شركة متخصصة في تطوير البرمجيات الخاصة بأنظمة الفوترة ومنظومات إدارة علاقات العملاء",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -724,11 +754,12 @@
 			"description": "شركة متخصصة في التكنولوجيا المالية لبرامج المحاسبة توفر حسابات الدفع والمشتريات وبرامج التشغيل الآلي للمدفوعات العالمية للشركات",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -746,11 +777,12 @@
 			"description": "شركة الأمن السيبراني للسيارات الإسرائيلية",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -768,11 +800,12 @@
 			"description": "شركة أمن شبكات",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -790,11 +823,12 @@
 			"description": "شركة مطورة لبطاريات الليثيوم أيون للسيارات الكهربائية",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -812,11 +846,12 @@
 			"description": "شركة برمجيات متخصصة في الوسائط وغيرها",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -834,11 +869,12 @@
 			"description": "شركة أمن سيبراني",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -856,11 +892,12 @@
 			"description": "شركة تطوير وتوفير برامج إدارة خدمات تكنولوجيا المعلومات",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -878,11 +915,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -900,11 +938,12 @@
 			"description": "شركة متخصصة في برامج إدارة علاقات العملاء والذكاء الاصطناعي والحلول الرقمية وإدارة مشاركة القوى العاملة",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -922,11 +961,12 @@
 			"description": "شركة نقل عام تعمل على إعادة هندسة وتطوير حلول النقل العام وتوفيرها حسب الطلب للركاب",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -944,11 +984,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -966,11 +1007,12 @@
 			"description": "برمجية ذكاء اصطناعي",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -988,11 +1030,12 @@
 			"description": "شركة أمن سيبراني",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1010,11 +1053,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1032,11 +1076,12 @@
 			"description": "منصة عالمية للاستثمار في المشاريع عبر الإنترنت",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1054,11 +1099,12 @@
 			"description": "شركة تعمل على تطوير برامج لتعليم الهوايات الإبداعية",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1076,11 +1122,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1098,11 +1145,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1120,11 +1168,12 @@
 			"description": "شركة متخصصة في تحليل البرمجيات والبيانات الضخمة",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1142,11 +1191,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1164,11 +1214,12 @@
 			"description": "شركة برمجيات ",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1186,11 +1237,12 @@
 			"description": "شركة برمجيات",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1208,11 +1260,12 @@
 			"description": "شركة إدارة أرشيف البيانات (Log) وتحليل الأرشيف",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1230,11 +1283,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1252,11 +1306,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1274,11 +1329,12 @@
 			"description": "منصة على الإنترنت مهتمة بعلم الأنساب",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1296,11 +1352,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1318,11 +1375,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1340,11 +1398,12 @@
 			"description": "برنامج لإدارة الممتلكات. يتم استخدامه من قبل مديري العقارات لإدارة الإيجارات قصيرة الأجل المدرجة على منصات متعددة مثل Airbnb وVrbo وBooking.com",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1362,11 +1421,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1384,11 +1444,12 @@
 			"description": "شركة أمن سيبراني",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1406,11 +1467,12 @@
 			"description": "شركة توفر منصة برمجية لاستضافة وإدارة الأحداث الشخصية والأحداث الافتراضية والأحداث المختلطة",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1428,11 +1490,12 @@
 			"description": "شركة تقنية مالية",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1450,11 +1513,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1472,11 +1536,12 @@
 			"description": "أتمتة العمليات الآلية كخدمة وحلول التحليلات للشركات",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1494,11 +1559,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1516,11 +1582,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1538,11 +1605,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1560,11 +1628,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1582,11 +1651,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1604,11 +1674,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1626,11 +1697,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1648,11 +1720,12 @@
 			"description": "",
 			"logo": "",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1670,11 +1743,12 @@
 			"description": "شركة اتصالات",
 			"logo": "./logo/partner.png",
 			"notes": "",
+			"category": "",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
-					"link":"",
+					"link": "",
 					"logo": "",
 					"notes": ""
 				}
@@ -1683,6 +1757,33 @@
 				{
 					"name": "",
 					"link": ""
+				}
+			]
+		},
+		{
+			"id": 75,
+			"name": "CyberArk",
+			"description": "شركة أمن الهويات",
+			"logo": "./logo/cyberark.avif",
+			"notes": "",
+			"category": "Security",
+			"alternatives": [
+				{
+					"name": "",
+					"description": "",
+					"link": "",
+					"logo": "",
+					"notes": ""
+				}
+			],
+			"resources": [
+				{
+					"name": "buyisraelitech",
+					"link": "https://buyisraelitech.com/database/cyberark"
+				},
+				{
+					"name": "bloomberg",
+					"link": "https://www.bloomberg.com/news/articles/2014-09-24/cyberark-rallies-69-after-pricing-shares-above-targeted-range"
 				}
 			]
 		}
