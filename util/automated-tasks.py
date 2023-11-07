@@ -38,7 +38,6 @@ def convert_json_to_csv(file_path: str) -> str:
     with open(f"./automated/{file_path}.csv", "w", encoding="utf-16") as csv_file:
         csv_file.write(csv)
     print("Completed converting json to csv.")
-    return "Completed converting json to csv."
 
 
 def convert_csv_to_excel(csv_file_path: str) -> str:
@@ -52,7 +51,6 @@ def convert_csv_to_excel(csv_file_path: str) -> str:
 
     csv_to_excel(csv_file_path=csv_file_path)
     print("Completed converting csv to excel.")
-    return "Completed converting csv to excel."
 
 
 def convert_json_to_sql(file_path: str) -> str:
@@ -81,7 +79,6 @@ def convert_json_to_sql(file_path: str) -> str:
     with open(f"./automated/{file_path}-mysql.sql", "w", encoding="utf-16") as file:
         file.write(sql)
     print("Completed converting json to mysql format.")
-    return "Completed converting json to sql."
 
 
 def convert_json_to_xml(file_path: str) -> str:
@@ -97,7 +94,6 @@ def convert_json_to_xml(file_path: str) -> str:
     xMl.indent(root)
     xMl.ElementTree(root).write(f"./automated/{file_path}.xml", encoding="utf-16")
     print("Completed converting json to xml.")
-    return "Completed converting json to xml."
 
 
 def convert_json_to_yaml(file_path: str) -> str:
@@ -113,7 +109,6 @@ def convert_json_to_yaml(file_path: str) -> str:
     with open(f"./automated/{file_path}.yml", "w", encoding="utf-16") as yaml_file:
         yaml_file.write(yaml)
     print("Completed converting json to yaml.")
-    return "Completed converting json to yaml."
 
 
 ################################
@@ -126,7 +121,6 @@ except FileExistsError:
 
 for json_file in glob.glob("*.json"):
     file: str = json_file.split(".")[0]
-    print(file)
     convert_json_to_xml(file_path=file)
     convert_json_to_yaml(file_path=file)
     convert_json_to_csv(file_path=file)
