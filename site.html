@@ -215,7 +215,7 @@
           return this.companiesAndServices.filter(company => this.deepSearch(company, this.searchTerm));
         },
         fetchData() {
-          fetch('https://raw.githubusercontent.com/TheBSD/poykott/main/companies-support-israel.json')
+          fetch('https://raw.githubusercontent.com/TheBSD/poykott/main/israel-companies-services.json')
             .then(response => response.json())
             .then(data => {
               this.companiesAndServices = data.companiesAndServices;
