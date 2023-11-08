@@ -1,11 +1,11 @@
 {
-	
+
 	"companiesAndServices": [
 		{
 			"id": 1,
 			"name": "Payoneer",
-			"description": "شركة خدمات مالية أمريكية تقدم خدمات تحويل الأموال عبر الإنترنت، ونظام دفع التجارة الإلكترونية خدمات الدفع الرقمية",
-			"logo": "",
+			"description": "شركة خدمات مالية تقدم خدمات تحويل الأموال عبر الإنترنت، وخدمات الدفع الرقمية",
+			"logo": "./logo/payoneer.png",
 			"notes": "",
 			"category": "Security",
 			"alternatives": [
@@ -28,7 +28,7 @@
 			"id": 2,
 			"name": "Taboola",
 			"description": "شركة إعلانات برمجية",
-			"logo": "",
+			"logo": "./logo/taboola.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -51,7 +51,7 @@
 			"id": 3,
 			"name": "Wix",
 			"description": "شركة إنشاء مواقع بدون تكويد بالسحب والإدراج",
-			"logo": "",
+			"logo": "./logo/wix.webp",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -88,7 +88,7 @@
 			"id": 4,
 			"name": "Fiverr",
 			"description": "شركة خدمات مصغرة",
-			"logo": "",
+			"logo": "./logo/fiverr.avif",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -111,7 +111,7 @@
 			"id": 5,
 			"name": "Appsflyer",
 			"description": "منصة تحليلات تسويقية",
-			"logo": "",
+			"logo": "./logo/appsflyer.avif",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -134,7 +134,7 @@
 			"id": 6,
 			"name": "Monday.com",
 			"description": "منصة إدارة التعامل مع العملاء",
-			"logo": "",
+			"logo": "./logo/monday.com.avif",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -157,7 +157,7 @@
 			"id": 7,
 			"name": "Waze",
 			"description": "تطبيق جي بي إس تفاعلي",
-			"logo": "",
+			"logo": "./logo/waze.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
