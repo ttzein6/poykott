@@ -178,9 +178,9 @@
 		},
 		{
 			"id": 8,
-			"name": "elementor Wordpress Plugin",
+			"name": "Elementor Wordpress Plugin",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/elementor.avif",
 			"notes": "",
 			"category": "",
 			"alternatives": [
