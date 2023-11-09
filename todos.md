@@ -4,6 +4,7 @@
 👉 complete the logos and the list data
 👉 enable links of the alternatives
 👉 change background color
+👉 fix the Readme in both English and Arabic and put HOW TO CONTRIBUTE and the Automated
 
 ## then
 👉 improve logo images

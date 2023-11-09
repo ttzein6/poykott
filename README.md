@@ -5,7 +5,7 @@
 ## شركات أو خدمات إسرائيلية
 
 في
-[هذا الملف](./isreal-companies-services.json)
+[هذا الملف](./israel-companies-services.json)
 
 ## شركات أو خدمات أعلنت دعمها للكيان
 
