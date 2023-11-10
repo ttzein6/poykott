@@ -1,4 +1,5 @@
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
+![Stand With Palestine](https://github.com/TheBSD/poykott/blob/main/assets/images/banner.jpg?raw=true)]
 
 <div dir='rtl' align='right'>
 
