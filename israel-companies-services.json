@@ -139,6 +139,13 @@
 			"category": "",
 			"alternatives": [
 				{
+					"name": "Workiom",
+					"description": ""Workiom.com" هي أداة إدارة المهام والفرق السحابية التي تساعد المنظمات على تبسيط التعاون، وتتبع تقدم المشروع، وأتمتة سير العمل بكفاءة.",
+					"link": "https://workiom.com",
+					"logo": "https://assets-global.website-files.com/60dece8aa1eb0fa6ceb39450/60dece8aa1eb0f13d2b395f8_Light_logo-p-500.png",
+					"notes": "البديل العربي الوحيد لـ Monday.com"
+				},
+				{
 					"name": "Bitrix24",
 					"description": "",
 					"link": "",
