@@ -7,7 +7,7 @@
 في
 [هذا الملف](./israel-companies-services.json)
 
-## شركات أو خدمات أعلنت دعمها للكيان
+## شركات أو خدمات أعلنت دعمها للكيان (لاحقًا)
 
 في
 [هذا الملف](./companies-support-isreal.json)
