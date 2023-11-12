@@ -924,7 +924,7 @@
 			"id": 38,
 			"name": "Innoviz Technologies",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/innoviz-technologies.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -947,7 +947,7 @@
 			"id": 39,
 			"name": "NICE Ltd.",
 			"description": "شركة متخصصة في برامج إدارة علاقات العملاء والذكاء الاصطناعي والحلول الرقمية وإدارة مشاركة القوى العاملة",
-			"logo": "",
+			"logo": "./logo/nice-ltd.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -970,7 +970,7 @@
 			"id": 40,
 			"name": "Via Transportation",
 			"description": "شركة نقل عام تعمل على إعادة هندسة وتطوير حلول النقل العام وتوفيرها حسب الطلب للركاب",
-			"logo": "",
+			"logo": "./logo/via-transportation.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -993,7 +993,7 @@
 			"id": 41,
 			"name": "Flytrex",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/flytrex.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1016,7 +1016,7 @@
 			"id": 42,
 			"name": "Pecan.ai",
 			"description": "برمجية ذكاء اصطناعي",
-			"logo": "",
+			"logo": "./logo/pecanai.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1039,7 +1039,7 @@
 			"id": 43,
 			"name": "BioCatch",
 			"description": "شركة أمن سيبراني",
-			"logo": "",
+			"logo": "./logo/biocatch.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1062,7 +1062,7 @@
 			"id": 44,
 			"name": "Optimal+",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/optimal.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1085,7 +1085,7 @@
 			"id": 45,
 			"name": "OurCrowd",
 			"description": "منصة عالمية للاستثمار في المشاريع عبر الإنترنت",
-			"logo": "",
+			"logo": "./logo/ourcrowd.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1108,7 +1108,7 @@
 			"id": 46,
 			"name": "JoyTunes",
 			"description": "شركة تعمل على تطوير برامج لتعليم الهوايات الإبداعية",
-			"logo": "",
+			"logo": "./logo/joytunes.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1131,7 +1131,7 @@
 			"id": 47,
 			"name": "AnyVision",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/anyvision.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1154,7 +1154,7 @@
 			"id": 48,
 			"name": "Lightico",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/lightico.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1177,7 +1177,7 @@
 			"id": 49,
 			"name": "ThetaRay",
 			"description": "شركة متخصصة في تحليل البرمجيات والبيانات الضخمة",
-			"logo": "",
+			"logo": "./logo/thetaray.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1200,7 +1200,7 @@
 			"id": 50,
 			"name": "Quali",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/quali.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1223,7 +1223,7 @@
 			"id": 51,
 			"name": "Redis Labs",
 			"description": "شركة برمجيات ",
-			"logo": "",
+			"logo": "./logo/redis-labs.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1246,7 +1246,7 @@
 			"id": 52,
 			"name": "mPrest",
 			"description": "شركة برمجيات",
-			"logo": "",
+			"logo": "./logo/mprest.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1269,7 +1269,7 @@
 			"id": 53,
 			"name": "Logz.io",
 			"description": "شركة إدارة أرشيف البيانات (Log) وتحليل الأرشيف",
-			"logo": "",
+			"logo": "./logo/logzio.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1292,7 +1292,7 @@
 			"id": 54,
 			"name": "Windward",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/windward.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1315,7 +1315,7 @@
 			"id": 55,
 			"name": "Vayavision",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/vayavision.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1338,7 +1338,7 @@
 			"id": 56,
 			"name": "MyHeritage",
 			"description": "منصة على الإنترنت مهتمة بعلم الأنساب",
-			"logo": "",
+			"logo": "./logo/my-heritage.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1361,7 +1361,7 @@
 			"id": 57,
 			"name": "Yotpo",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/yotpo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1384,7 +1384,7 @@
 			"id": 58,
 			"name": "RapidAPI",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/rapid-api.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1407,7 +1407,7 @@
 			"id": 59,
 			"name": "Guesty",
 			"description": "برنامج لإدارة الممتلكات. يتم استخدامه من قبل مديري العقارات لإدارة الإيجارات قصيرة الأجل المدرجة على منصات متعددة مثل Airbnb وVrbo وBooking.com",
-			"logo": "",
+			"logo": "./logo/guesty.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1430,7 +1430,7 @@
 			"id": 60,
 			"name": "Dynamic Yield",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/dynamic-yield.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1453,7 +1453,7 @@
 			"id": 61,
 			"name": "Snyk",
 			"description": "شركة أمن سيبراني",
-			"logo": "",
+			"logo": "./logo/snyk.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1476,7 +1476,7 @@
 			"id": 62,
 			"name": "Bizzabo",
 			"description": "شركة توفر منصة برمجية لاستضافة وإدارة الأحداث الشخصية والأحداث الافتراضية والأحداث المختلطة",
-			"logo": "",
+			"logo": "./logo/bizzabo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1499,7 +1499,7 @@
 			"id": 63,
 			"name": "Ezbob",
 			"description": "شركة تقنية مالية",
-			"logo": "",
+			"logo": "./logo/ezbob.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1522,7 +1522,7 @@
 			"id": 64,
 			"name": "Stellar Cyber",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/stellar-cyber.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1545,7 +1545,7 @@
 			"id": 65,
 			"name": "Kryon Systems",
 			"description": "أتمتة العمليات الآلية كخدمة وحلول التحليلات للشركات",
-			"logo": "",
+			"logo": "./logo/kryon-systems.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1568,7 +1568,7 @@
 			"id": 66,
 			"name": "StartApp",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/startapp.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1591,7 +1591,7 @@
 			"id": 67,
 			"name": "Forter",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/forter.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1614,7 +1614,7 @@
 			"id": 68,
 			"name": "Lusha",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/lusha.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1637,7 +1637,7 @@
 			"id": 69,
 			"name": "Spot.IM (now OpenWeb)",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/openweb.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1660,7 +1660,7 @@
 			"id": 70,
 			"name": "Nanit",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/nanit.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1683,7 +1683,7 @@
 			"id": 71,
 			"name": "Soluto",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/soluto.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1706,7 +1706,7 @@
 			"id": 72,
 			"name": "Jolt",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/jolt.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1729,7 +1729,7 @@
 			"id": 73,
 			"name": "Oribi",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/oribi.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
