@@ -172,7 +172,7 @@
                                   class="group relative bg-white focus-within:ring-2 focus-within:ring-inset focus-within:ring-indigo-500">
                                   <div class="mt-8">
                                     <h3 class="text-base font-semibold leading-6 text-gray-900">
-                                      <a href="#" class="focus:outline-none">
+                                      <a x-bind:href="alternative.link"class="focus:outline-none">
                                         <span class="absolute inset-0" aria-hidden="true"></span>
                                         <span x-text="alternative.name"></span>
                                       </a>
@@ -237,7 +237,6 @@
           return this.companiesAndServices.filter(company => this.deepSearch(company, this.searchTerm));
         },
         fetchData() {
-          // fetch('https://poykott.dj4fer.repl.co/data.json')
           fetch('https://raw.githubusercontent.com/TheBSD/poykott/main/israel-companies-services.json')
             .then(response => response.json())
             .then(data => {
