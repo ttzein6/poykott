@@ -4,7 +4,7 @@ on:
     paths:
       - 'companies-support-isreal.json'
       - 'israel-companies-services.json'
-      
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,12 +26,12 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Actions"
-          
+
           git add .
           git commit -m "automatically converted after editing companies-support-isreal.json and/or israel-companies-services.json"
 
       - name: push the generated file
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GIT_ACTION_TOKEN }}
           branch: main
