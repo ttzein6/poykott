@@ -4395,6 +4395,29 @@
 					"link": "https://buyisraelitech.com/database"
 				}
 			]
+		},
+		{
+			"id": 195,
+			"name": "riverside",
+			"description": "شركة تقدم حلول تسجيل البودكاست والمقابلات عن بعد",
+			"logo": "./logo/riverside-logo.jpeg",
+			"notes": "المنصة التي يستخدمها بودكاست syntax.fm مثلا للتسجيل",
+			"category": "SaaS",
+			"alternatives": [
+				{
+					"name": "",
+					"description": "",
+					"link": "",
+					"logo": "",
+					"notes": ""
+				}
+			],
+			"resources": [
+				{
+					"name": "عن الموقع",
+					"link": "https://riverside.fm/about"
+				}
+			]
 		}
 	]
 }
