@@ -234,7 +234,7 @@
 			"id": 9,
 			"name": "Mobileye",
 			"description": "شركة تطوير مركبات ذاتية القيادة وأنظمة مساعدة السائق المتقدمة",
-			"logo": "",
+			"logo": "./logo/Mobileye_logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -257,7 +257,7 @@
 			"id": 10,
 			"name": "Cybereason",
 			"description": "شركة أمن سيبراني",
-			"logo": "",
+			"logo": "./logo/Cybereason_logo.webp",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -288,7 +288,7 @@
 			"id": 11,
 			"name": "Sisense",
 			"description": "برمجية ذكاء أعمال  للمشاريع الصغيرة والمتوسطة",
-			"logo": "",
+			"logo": "./logo/Sisense_logo.svg",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -348,7 +348,7 @@
 			"id": 13,
 			"name": "IronSource",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/IronSource_logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -368,33 +368,10 @@
 			]
 		},
 		{
-			"id": 14,
-			"name": "WalkMe",
-			"description": "",
-			"logo": "",
-			"notes": "",
-			"category": "",
-			"alternatives": [
-				{
-					"name": "",
-					"description": "",
-					"link": "",
-					"logo": "",
-					"notes": ""
-				}
-			],
-			"resources": [
-				{
-					"name": "LinkedIn",
-					"link": "https://il.linkedin.com/in/yuvalozanna"
-				}
-			]
-		},
-		{
 			"id": 15,
 			"name": "Outbrain",
 			"description": "شركة إعلانات",
-			"logo": "",
+			"logo": "./logo/Outbrain_logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -417,7 +394,7 @@
 			"id": 16,
 			"name": "OrCam device",
 			"description": "شركة تنتج أجهزة تتيح للمعاقين بصرياً فهم النصوص الكتابية وتحديد الأشياء",
-			"logo": "",
+			"logo": "./logo/OrCam-technology-logo.webp",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -440,7 +417,7 @@
 			"id": 17,
 			"name": "Riskified",
 			"description": "شركة مكافحة احتيال",
-			"logo": "",
+			"logo": "./logo/Riskified_logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -3693,7 +3670,7 @@
 			"id": 162,
 			"name": "Radware",
 			"description": "",
-			"logo": "./logo/Radware_logo.png",
+			"logo": "",
 			"category": "Hardware",
 			"alternatives": [
 				{
@@ -4302,6 +4279,10 @@
 				{
 					"name": "Buy Israeli Tech",
 					"link": "https://buyisraelitech.com/database"
+				},
+				{
+					"name": "LinkedIn",
+					"link": "https://il.linkedin.com/in/yuvalozanna"
 				}
 			]
 		},
