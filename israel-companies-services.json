@@ -12,7 +12,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -35,7 +35,7 @@
 					"name": "Google AdWords",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -58,21 +58,21 @@
 					"name": "Wuilt",
 					"description": "",
 					"link": "https://app.wuilt.com",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				},
 				{
 					"name": "WordPress",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				},
 				{
 					"name": "Webflow",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -95,7 +95,7 @@
 					"name": "khamsat",
 					"description": "",
 					"link": "https://khamsat.com",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -118,7 +118,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -148,7 +148,7 @@
 					"name": "Bitrix24",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -171,7 +171,7 @@
 					"name": "HERE WeGo",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -194,28 +194,28 @@
 					"name": "King composer",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				},
 				{
 					"name": "SiteOrigin Page Builder",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				},
 				{
 					"name": "nicepage",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				},
 				{
 					"name": "divi",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -242,7 +242,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -265,7 +265,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -296,21 +296,21 @@
 					"name": "Tableau",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				},
 				{
 					"name": "RAWGraphs",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				},
 				{
 					"name": "Microsoft Power BI",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -333,7 +333,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -356,7 +356,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -379,7 +379,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -402,7 +402,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -425,7 +425,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -440,7 +440,7 @@
 			"id": 18,
 			"name": "Gett",
 			"description": "B2B Ground Transportation Management",
-			"logo": "",
+			"logo": "./logo/Gett_logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -448,7 +448,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -463,7 +463,7 @@
 			"id": 19,
 			"name": "Lemonade",
 			"description": "شركة تأمين",
-			"logo": "",
+			"logo": "./logo/lemonade_logo.jpeg",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -471,7 +471,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -486,7 +486,7 @@
 			"id": 20,
 			"name": "Vayyar Imaging",
 			"description": "شركة لأشباه الموصلات تنتج مستشعرات رادار للتصوير الرباعي الأبعاد",
-			"logo": "",
+			"logo": "./logo/vayyar_Imaging_logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -494,7 +494,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -509,7 +509,7 @@
 			"id": 21,
 			"name": "Playtika",
 			"description": "شركة تطوير ألعاب جوال",
-			"logo": "",
+			"logo": "./logo/playtika_Logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -517,7 +517,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -532,7 +532,7 @@
 			"id": 22,
 			"name": "Gong.io",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/Gong.io_Logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -540,7 +540,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -555,7 +555,7 @@
 			"id": 23,
 			"name": "JFrog",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/JFrog_logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -563,7 +563,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -578,7 +578,7 @@
 			"id": 24,
 			"name": "Moovit",
 			"description": "شركة مخطط الرحلات",
-			"logo": "",
+			"logo": "./logo/Moovit_logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -586,7 +586,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -601,7 +601,7 @@
 			"id": 25,
 			"name": "SafeBreach",
 			"description": "شركة للأمن السيبراني لمحاكاة اختراق القراصنة",
-			"logo": "",
+			"logo": "./logo/SafeBreach_logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -609,7 +609,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -624,7 +624,7 @@
 			"id": 26,
 			"name": "Cellebrite",
 			"description": "شركة حلول ذكاء أعمال رقمي",
-			"logo": "",
+			"logo": "./logo/Cellebrite_logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -632,7 +632,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -647,7 +647,7 @@
 			"id": 27,
 			"name": "Bringg",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/Bringg_logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -655,7 +655,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -670,7 +670,7 @@
 			"id": 28,
 			"name": "Zebra Medical Vision",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/ZebraMedicalVision_Logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -678,7 +678,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -693,7 +693,7 @@
 			"id": 29,
 			"name": "SolarEdge",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/SolarEdge_logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -701,7 +701,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -716,7 +716,7 @@
 			"id": 30,
 			"name": "Amdocs",
 			"description": "شركة متخصصة في تطوير البرمجيات الخاصة بأنظمة الفوترة ومنظومات إدارة علاقات العملاء",
-			"logo": "",
+			"logo": "./logo/Amdocs_logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -724,7 +724,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -739,7 +739,7 @@
 			"id": 31,
 			"name": "Tipalti",
 			"description": "شركة متخصصة في التكنولوجيا المالية لبرامج المحاسبة توفر حسابات الدفع والمشتريات وبرامج التشغيل الآلي للمدفوعات العالمية للشركات",
-			"logo": "",
+			"logo": "./logo/Tipalti_logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -747,7 +747,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -762,7 +762,7 @@
 			"id": 32,
 			"name": "Argus Cyber Security",
 			"description": "شركة الأمن السيبراني للسيارات الإسرائيلية",
-			"logo": "",
+			"logo": "./logo/ArgusCyberSecurity.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -770,7 +770,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -785,7 +785,7 @@
 			"id": 33,
 			"name": "Cato Networks",
 			"description": "شركة أمن شبكات",
-			"logo": "",
+			"logo": "./logo/Cato_Networks_Logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -793,7 +793,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -808,7 +808,7 @@
 			"id": 34,
 			"name": "StoreDot",
 			"description": "شركة مطورة لبطاريات الليثيوم أيون للسيارات الكهربائية",
-			"logo": "",
+			"logo": "./logo/StoreDot_logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -816,7 +816,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -831,7 +831,7 @@
 			"id": 35,
 			"name": "Kaltura",
 			"description": "شركة برمجيات متخصصة في الوسائط وغيرها",
-			"logo": "",
+			"logo": "./logo/Kaltura_logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -839,7 +839,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -854,7 +854,7 @@
 			"id": 36,
 			"name": "SentinelOne",
 			"description": "شركة أمن سيبراني",
-			"logo": "",
+			"logo": "./logo/SentinelOne_logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -862,7 +862,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -877,7 +877,7 @@
 			"id": 37,
 			"name": "SysAid Technologies",
 			"description": "شركة تطوير وتوفير برامج إدارة خدمات تكنولوجيا المعلومات",
-			"logo": "",
+			"logo": "./logo/SysAid_Technologies_logo.jpeg",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -885,7 +885,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -908,7 +908,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -931,7 +931,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -954,7 +954,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -977,7 +977,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1000,7 +1000,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1023,7 +1023,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1046,7 +1046,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1069,7 +1069,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1092,7 +1092,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1115,7 +1115,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1138,7 +1138,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1161,7 +1161,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1184,7 +1184,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1207,7 +1207,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1230,7 +1230,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1253,7 +1253,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1276,7 +1276,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1299,7 +1299,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1322,7 +1322,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1345,7 +1345,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1368,7 +1368,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1391,7 +1391,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1414,7 +1414,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1437,7 +1437,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1460,7 +1460,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1483,7 +1483,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1506,7 +1506,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1529,7 +1529,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1552,7 +1552,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1575,7 +1575,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1598,7 +1598,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1621,7 +1621,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1644,7 +1644,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1667,7 +1667,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1690,7 +1690,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1713,7 +1713,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1736,7 +1736,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1759,7 +1759,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1785,7 +1785,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1807,7 +1807,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1829,7 +1829,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1851,7 +1851,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1873,7 +1873,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1895,7 +1895,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1917,7 +1917,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1939,7 +1939,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1961,7 +1961,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -1983,7 +1983,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2005,7 +2005,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2027,7 +2027,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2049,7 +2049,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2071,7 +2071,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2093,7 +2093,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2115,7 +2115,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2137,7 +2137,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2159,7 +2159,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2181,7 +2181,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2203,7 +2203,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2225,7 +2225,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2247,7 +2247,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2269,7 +2269,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2291,7 +2291,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2313,7 +2313,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2335,7 +2335,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2357,7 +2357,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2379,7 +2379,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2401,7 +2401,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2423,7 +2423,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2445,7 +2445,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2467,7 +2467,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2489,7 +2489,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2511,7 +2511,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2533,7 +2533,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2555,7 +2555,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2577,7 +2577,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2599,7 +2599,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2621,7 +2621,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2643,7 +2643,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2665,7 +2665,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2687,7 +2687,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2709,7 +2709,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2731,7 +2731,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2753,7 +2753,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2775,7 +2775,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2797,7 +2797,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2819,7 +2819,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2841,7 +2841,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2863,7 +2863,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2885,7 +2885,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2907,7 +2907,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2929,7 +2929,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2951,7 +2951,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2973,7 +2973,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -2995,7 +2995,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3017,7 +3017,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3039,7 +3039,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3061,7 +3061,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3083,7 +3083,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3105,7 +3105,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3127,7 +3127,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3149,7 +3149,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3171,7 +3171,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3193,7 +3193,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3215,7 +3215,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3237,7 +3237,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3259,7 +3259,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3281,7 +3281,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3303,7 +3303,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3325,7 +3325,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3347,7 +3347,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3369,7 +3369,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3391,7 +3391,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3413,7 +3413,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3435,7 +3435,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3457,7 +3457,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3479,7 +3479,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3501,7 +3501,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3523,7 +3523,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3545,7 +3545,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3567,7 +3567,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3589,7 +3589,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3611,7 +3611,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3633,7 +3633,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3655,7 +3655,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3670,14 +3670,14 @@
 			"id": 162,
 			"name": "Radware",
 			"description": "",
-			"logo": "",
+			"logo": "./logo/",
 			"category": "Hardware",
 			"alternatives": [
 				{
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3699,7 +3699,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3721,7 +3721,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3743,7 +3743,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3765,7 +3765,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3787,7 +3787,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3809,7 +3809,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3831,7 +3831,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3853,7 +3853,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3875,7 +3875,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3897,7 +3897,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3919,7 +3919,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3941,7 +3941,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3963,7 +3963,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -3985,7 +3985,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -4007,7 +4007,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -4029,7 +4029,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -4051,7 +4051,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -4073,7 +4073,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -4095,7 +4095,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -4117,7 +4117,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -4139,7 +4139,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -4161,7 +4161,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -4183,7 +4183,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -4205,7 +4205,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -4227,7 +4227,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -4249,7 +4249,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -4271,7 +4271,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -4297,7 +4297,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -4319,7 +4319,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -4341,7 +4341,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -4363,7 +4363,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
@@ -4385,7 +4385,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "",
+					"logo": "./logo/",
 					"notes": ""
 				}
 			],
