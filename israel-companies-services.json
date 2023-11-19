@@ -532,7 +532,7 @@
 			"id": 22,
 			"name": "Gong.io",
 			"description": "",
-			"logo": "./logo/Gong.io_Logo.png",
+			"logo": "./logo/Gong_logo.png",
 			"notes": "",
 			"category": "",
 			"alternatives": [
@@ -1954,7 +1954,7 @@
 			"id": 84,
 			"name": "Aqua Security",
 			"description": "As the pioneer in cloud native security, Aqua helps customers reduce risk while building the future of their businesses.",
-			"logo": "./logo/Aqua Security_logo.png",
+			"logo": "./logo/Aqua Security_logo.svg",
 			"category": "Security",
 			"alternatives": [
 				{
@@ -2115,7 +2115,7 @@
 					"name": "",
 					"description": "",
 					"link": "",
-					"logo": "./logo/",
+					"logo": "",
 					"notes": ""
 				}
 			],
@@ -3274,7 +3274,7 @@
 			"id": 144,
 			"name": "myInterview",
 			"description": "myInterview’s Candidate Experience Platform empowers the world’s leading brands to streamline and scale their recruitment.",
-			"logo": "./logo/myInterview_logo.png",
+			"logo": "./logo/myInterview_logo.svg",
 			"category": "HR",
 			"alternatives": [
 				{
