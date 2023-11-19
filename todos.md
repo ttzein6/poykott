@@ -20,4 +20,12 @@
 
 👉 add companies that support
 
-👉 add companies that support
+👉 make it in another tab for companies that resolved
+
+👉 if no alternatives, remove "البدال" and remove the link svg
+
+👉 enhance svg link view beside the alternative
+
+👉 improve SEO
+
+👉 improve Light house testing
