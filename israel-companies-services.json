@@ -2834,7 +2834,7 @@
 			"id": 124,
 			"name": "Graphiti",
 			"description": "Graphiti boosts your revenue engine with an engaging and easy-to-use AI-powered platform.",
-			"logo": "./logo/Graphiti_logo.png",
+			"logo": "./logo/Graphiti_logo.svg",
 			"category": "Sales",
 			"alternatives": [
 				{
@@ -2900,7 +2900,7 @@
 			"id": 127,
 			"name": "Habana Labs",
 			"description": "",
-			"logo": "./logo/Habana Labs_logo.png",
+			"logo": "./logo/HabanaLabs_logo.png",
 			"category": "Semiconductors",
 			"alternatives": [
 				{
@@ -3670,7 +3670,7 @@
 			"id": 162,
 			"name": "Radware",
 			"description": "",
-			"logo": "./logo/",
+			"logo": "./logo/Radware_logo.png",
 			"category": "Hardware",
 			"alternatives": [
 				{
