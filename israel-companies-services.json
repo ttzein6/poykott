@@ -52,13 +52,20 @@
 			"description": "شركة إنشاء مواقع بدون تكويد بالسحب والإدراج",
 			"logo": "./logo/wix.webp",
 			"notes": "",
-			"category": "",
+			"category": "Marketing",
 			"alternatives": [
 				{
 					"name": "Wuilt",
 					"description": "",
 					"link": "https://app.wuilt.com",
 					"logo": "./logo/",
+					"notes": ""
+				},
+				{
+					"name": "Dsite",
+					"description": "شركة سعودية عربية لانشاء المواقع بدون كتابة كود",
+					"link": "https://www.dsite.sa",
+					"logo": "./logo/dsite-logo.svg",
 					"notes": ""
 				},
 				{
@@ -135,14 +142,21 @@
 			"description": "منصة إدارة التعامل مع العملاء",
 			"logo": "./logo/monday.com.avif",
 			"notes": "",
-			"category": "",
+			"category": "Productivity",
 			"alternatives": [
 				{
 					"name": "Workiom",
 					"description": "هي أداة إدارة المهام والفرق السحابية التي تساعد المنظمات على تبسيط التعاون، وتتبع تقدم المشروع، وأتمتة سير العمل بكفاءة.",
 					"link": "https://workiom.com",
 					"logo": "./logo/workiom.png",
-					"notes": "البديل العربي الوحيد لـ Monday.com"
+					"notes": "بديل عربي لـ Monday.com"
+				},
+				{
+					"name": "DataLexing",
+					"description": "all-in-one AI software for any team to collaborate on Tables Kanban Surveys and Live dashboard",
+					"link": "https://www.datalexing.com",
+					"logo": "./logo/datalexing_logo.jpeg",
+					"notes": "منتج سعودي ويدعم اللغة العربيه"
 				},
 				{
 					"name": "Bitrix24",
@@ -1405,10 +1419,10 @@
 		{
 			"id": 60,
 			"name": "Dynamic Yield",
-			"description": "",
+			"description": "Ecommerce personalization engine",
 			"logo": "./logo/dynamic-yield.png",
-			"notes": "",
-			"category": "",
+			"notes": "Used by over 100 arab sites. Estimated revenue in the region is about 10 million",
+			"category": "Ecommerce",
 			"alternatives": [
 				{
 					"name": "",
@@ -4416,6 +4430,75 @@
 				{
 					"name": "عن الموقع",
 					"link": "https://riverside.fm/about"
+				}
+			]
+		},
+		{
+			"id": 196,
+			"name": "PractiTest",
+			"description": "End-to-End Test Management Platform",
+			"logo": "./logo/",
+			"notes": "",
+			"category": "Software testing",
+			"alternatives": [
+				{
+					"name": "",
+					"description": "",
+					"link": "",
+					"logo": "",
+					"notes": ""
+				}
+			],
+			"resources": [
+				{
+					"name": "عن الموقع",
+					"link": "https://www.practitest.com/about-us/"
+				}
+			]
+		},
+		{
+			"id": 197,
+			"name": "Zencity",
+			"description": "مساعدة حكومات والبلديات المحلية على بناء الثقة مع مجتمعاتهم",
+			"logo": "./logo/",
+			"notes": "تقوم الشركة بتحليل المنشورات العامة على السوشال ميديا باستخدام الذكاء الاصطناعي لاظهار اهتمامات الناس ومعرفة مشاكلهم واحتياجاتهم وحلها اولا بأول",
+			"category": "AI",
+			"alternatives": [
+				{
+					"name": "",
+					"description": "",
+					"link": "",
+					"logo": "",
+					"notes": ""
+				}
+			],
+			"resources": [
+				{
+					"name": "عن الموقع",
+					"link": "https://www.practitest.com/about-us/"
+				}
+			]
+		},
+		{
+			"id": 198,
+			"name": "Sapiens",
+			"description": "Sapiens International Corporation (NASDAQ and TASE: SPNS) empowers the financial sector, with a focus on insurance, to transform and become digital, innovative, and agile. (Software solutions company)",
+			"logo": "./logo/",
+			"notes": "تقوم الشركة بتحليل المنشورات العامة على السوشال ميديا باستخدام الذكاء الاصطناعي لاظهار اهتمامات الناس ومعرفة مشاكلهم واحتياجاتهم وحلها اولا بأول",
+			"category": "Software",
+			"alternatives": [
+				{
+					"name": "",
+					"description": "",
+					"link": "",
+					"logo": "",
+					"notes": ""
+				}
+			],
+			"resources": [
+				{
+					"name": "Wikipedia",
+					"link": "https://en.wikipedia.org/wiki/Sapiens_International_Corporation"
 				}
 			]
 		}
