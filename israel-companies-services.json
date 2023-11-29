@@ -2236,17 +2236,21 @@
 			"category": "Development",
 			"alternatives": [
 				{
-					"name": "",
-					"description": "",
-					"link": "",
-					"logo": "./logo/",
-					"notes": ""
+					"name": "Cody ai",
+					"description": "كودي هو مساعد ذكي بالذكاء الاصطناعي مثل ChatGPT - مع فائدة إضافية تتمثل في القدرة على تدريبه على أعمالك، وفريقك، وعملياتك، وعملائك باستخدام قاعدة معرفتك الخاصة. استخدم كودي كموظف لدعم فريقك، والرد على الأسئلة، والمساعدة في العمل الإبداعي، وحل المشكلات، والتفكير المشترك في الأفكار.",
+					"link": "https://meetcody.ai",
+					"logo": "./logo/cody-ai-logo.svg",
+					"notes": "Cody is an AI-powered virtual employee that can assist your business in various tasks, such as answering questions, completing tasks, onboarding new hires, providing support and troubleshooting, and bringing new ideas and insights."
 				}
 			],
 			"resources": [
 				{
 					"name": "Buy Israeli Tech",
 					"link": "https://buyisraelitech.com/database"
+				},
+				{
+					"name": "Official CodiumAI Website",
+					"link": "https://www.codium.ai/contact"
 				}
 			]
 		},
