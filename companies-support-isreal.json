@@ -23,6 +23,29 @@
 					"link": "https://www.wionews.com/entertainment/disney-donates-2-million-to-support-humanitarian-relief-in-israel-post-hamas-attack-647085#"
 				}
 			]
+		},
+		{
+			"id": 2,
+			"name": "PepsiCo",
+			"description": "",
+			"logo": "",
+			"notes": "",
+			"inBSD": true,
+			"alternatives": [
+				{
+					"name": "List of alternatives",
+					"description": "",
+					"link": "https://badayli.com/eg-ar/products/pepsi/alternatives",
+					"logo": "",
+					"notes": ""
+				}
+			],
+			"resources": [
+				{
+					"name": "List of alternatives",
+					"link": "https://badayli.com/eg-ar/products/pepsi/alternatives"
+				}
+			]
 		}
 	]
 }
